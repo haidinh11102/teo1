@@ -6,11 +6,11 @@
 .anh {
     background: url(./image/nerd-309458.png);
     display: block;
-    max-width:50px;
-    max-height:55px;
+    max-width:250px;
+    max-height:200px;
     width: auto;
     height: auto;
-    margin-right: 320px;
+    margin-right: 820px;
     margin-top: -10px;
     position: absolute;
 }
